@@ -14,6 +14,7 @@ Here are some of my projects.
 ## Software Engineering Projects
 
 ### Learn Hangul
+<img src="/assets/img/Thumb.png" width="140" height="140">
 A learning game (think Duolingo) that teaches you Hangul / 한글, the Korean alphabet. The game is written entirely in Elm - a purely functional language designed for reliable webapps with no runtime exceptions.
 
 This was developed as a project for CMSC 22300: Functional Programming. It does not yet include all elements of Hangul.
