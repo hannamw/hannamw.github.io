@@ -18,11 +18,10 @@ A learning game (think Duolingo) that teaches you Hangul / 한글, the Korean al
 
 This was developed as a . It does not yet
 
-Play the demo [here]
-(https://www.classes.cs.uchicago.edu/archive/2019/spring/22300-1/showcase/mwhanna/index.html)!
+Play the demo [here](https://www.classes.cs.uchicago.edu/archive/2019/spring/22300-1/showcase/mwhanna/index.html)!
 
 ### Othello
-![Othello](/assets/img/othello.png)
+![Othello](/assets/img/othello.png = 150x150)
 An implementation of the classic board game, Othello, in C. Play against a human, or a computer 
 
 This program can be found
