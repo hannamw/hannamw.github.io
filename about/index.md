@@ -1,4 +1,4 @@
-# Hello.
+# About me
 I'm Michael Hanna, an undergraduate at the University of Chicago studying computer science and linguistics. During the academic year, I live in Hyde Park, Chicago, but right now, I'm living in Cambridge, MA.
 
 ## Professional / Academic Interests
