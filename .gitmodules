@@ -1,0 +1,3 @@
+[submodule "learn-hangul"]
+	path = learn-hangul
+	url = https://github.com/hannamw/learn-hangul/
