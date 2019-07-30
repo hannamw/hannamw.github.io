@@ -3,7 +3,7 @@ I'm Michael Hanna, an undergraduate at the University of Chicago studying comput
 
 ## Professional / Academic Interests
 - **Computational Linguistics**: In general, I am interested in using computational techniques to model language. Moreover, once we have developed a model for one or many aspects of a language, how do we evaluate it—what does it mean to model language well? At the moment, my specific interests are involve word representations:
-  - **Word Sense Discovery**: Given a model that outputs word representation, and many examples of a word, can we discern the number of senses that a word has? Given a set of existing senses for a word, can we introduce examples with new senses, and will we be able identify new senses based on 
+  - **Word Sense Discovery**: Given a model that outputs word representations, and many examples of a word, can we discern the number of senses that a word has? Given a set of existing senses for a word, can we introduce examples with new senses, and will we be able identify new senses based on our model's representation of them?
   - **Semantic Classes and Grammaticality**: Many words belong to specific semantic classes, which constrain both the words that they can take as arguments, and the words that can take them as arguments. The word "drink", for example, takes as arguments only words in the "liquid" class. Can we learn a word representation that models these semantic classes?
 - **Machine and Deep Learning**: I'm most interested in representation learning and unsupervised learning.
 - **Language Learning**: Here referring to natural languages. I'm broadly interested in Western Romance languages, as well as the languages of the Sinosphere. I speak Spanish well, and Korean less well.
