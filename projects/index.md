@@ -5,17 +5,24 @@ Here are some of my projects.
 
 ### Evaluating Contextual Word Embeddings (Ongoing)
 
+### Imagenet Transfer Learning
+A simple project with two goals:
+1. Via transfer learning, train models to distinguish between two image classes.
+2. Evaluate the performance of various pre-trained models, using multiple deep learning frameworks and hardware configurations.
+
+For this project, I took image classification models (VGG19, mobilenet, and nasnet), and removed the last layer. I then created my own dataset with two classes (spiders and scorpions) not in the original dataset. I retrained these models on these image classes, and tracked training / inference time across different frameworks (tensorflow, theano, pytorch) and hardware (Nvidia GTX 1080Ti, Nvidia GTX 1080, Nvidia Kesta T80).
+
 ### Classifying Document Sentiment
 
 ### Language Detection
-
-### Transfer Learning on Imagenet
+A toy project that detects
 
 ## Software Engineering Projects
 
 ### Learn Hangul
 <img src="/assets/img/Thumb.png" width="140" height="140">
-A learning game (think Duolingo) that teaches you Hangul / 한글, the Korean alphabet. The game is written entirely in Elm, a purely functional language designed for reliable webapps with no runtime exceptions—a property of Elm that you should enjoy while playing this game!
+
+A learning game (think Duolingo) that teaches you Hangul / 한글, the Korean alphabet. The game is written entirely in Elm, a purely functional language designed for reliable webapps with no runtime exceptions—a property of Elm that I hope you enjoy while playing this game!
 
 
 This was developed as a project for CMSC 22300: Functional Programming. It does not yet include all elements of Hangul.
