@@ -11,8 +11,8 @@ I'm Michael Hanna, and this is my personal website. Thanks for giving it a look!
 - <a href='https://hannamw.github.io/resume/'>Contact</a>
 - <a href='https://hannamw.github.io/resume/#education'>Education</a>
 - <a href='https://hannamw.github.io/resume/#experience'>Experience</a>
-- <a href='https://hannamw.github.io/resume/#skills'>Skills</a>
-- <a href='https://hannamw.github.io/resume/#awards'>Awards</a>
+- <a href='https://hannamw.github.io/resume/#languages'>Skills</a>
+- <a href='https://hannamw.github.io/resume/#honors'>Awards</a>
 
 ### Projects
 - <a href='https://hannamw.github.io/projects/#'>Research</a>
