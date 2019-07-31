@@ -6,7 +6,7 @@ mwhanna@uchicago.edu | (978) 770-9009 | <a href="hannamw.github.io">hannamw.gith
 ### Education
 University of Chicago (expected 2020) | GPA: 3.94
 - BS, Computer Science | GPA: 3.96
-- BA, Linguistics | GPA: 4.0
+- BA, Linguistics      | GPA: 4.0
 
 ### Experience
 
@@ -30,7 +30,7 @@ Summer 2018, Barcelona
 
 #### Student Programmer, <a href='http://stemed.uchicago.edu/'>University of Chicago STEM Education</a>
 Feb. 2018 - June 2018, Chicago
-- Worked with existing codebase to fix and refactor projects in Scratch that teach elementary and middle school students about math and computer science
+- Fix and refactor projects in Scratch that teach elementary and middle school students about math and computer science
 - Developed new projects in Scratch to meet specific STEM learning goals
 
 ### Languages
@@ -54,7 +54,7 @@ Feb. 2018 - June 2018, Chicago
 - Computer {Architecture, Networks}
 
 ### Honors
-- Phi Beta Kappa
+- Phi Beta Kappa 
 - FLAG Grant
 - National Merit Scholarship
 - NSLI-Y Summer Recipient
