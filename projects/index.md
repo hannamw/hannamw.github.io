@@ -1,9 +1,9 @@
 # Projects 
-Here are some of my projects.
 
 ## Academic Projects
 
 ### Evaluating Contextual Word Embeddings (Ongoing)
+A research project aimed at understanding the properties of contextual word embeddings. The central question relates human linguistic knowledge and the information contained in these word embeddings: Given examples of an unknown word used in a sentence, humans can discern how many distinct meanings that word has, and can most often classify each example of the word as an instance of one meaning. Can we also determine, via many contextual embeddings of a word, how many meanings it has? Can we also classify word instances as having one of these meanings? If current word representations do not capture this information, how can we build word representations that do? Potential downstream applications include not only word sense disambiguation, but also analysis of polysemy in less-documented languages using unlabeled data.
 
 ### Imagenet Transfer Learning
 <img src="/assets/img/vgg19.png" width="280" height="140">
