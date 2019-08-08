@@ -4,9 +4,9 @@
 mwhanna@uchicago.edu | (978) 770-9009 | <a href="hannamw.github.io">hannamw.github.io</a>
 
 ### Education
-University of Chicago (expected 2020) | GPA: 3.94
-- BS, Computer Science | GPA: 3.96
-- BA, Linguistics      | GPA: 4.0
+University of Chicago (expected 2020) GPA: 3.94
+- BS, Computer Science GPA: 3.96
+- BA, Linguistics      GPA: 4.0
 
 ### Experience
 
