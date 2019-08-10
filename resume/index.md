@@ -5,15 +5,17 @@ mwhanna@uchicago.edu | (978) 770-9009 | <a href="hannamw.github.io">hannamw.gith
 
 ### Education
 University of Chicago (expected 2020) GPA: 3.94
-- BS, Computer Science GPA: 3.96
-- BA, Linguistics      GPA: 4.0
+- BS, Computer Science &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;GPA: 3.96
+- BA, Linguistics &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp; &nbsp; &nbsp;GPA: 4.0
 
 ### Experience
 
 #### Software Engineering Intern, <a href='https://orbitalinsight.com/'>Orbital Insight</a>
 Summer 2019, Boston
-- Write scripts to asynchronously ingest and monitor large data flows
-- Evaluate and create large datasets for computer vision models
+- Wrote monitors in Python to track and plot trends in data, and send alerts when anomalies were detected. Also wrote Dockerfiles for easy deployment to Kubernetes
+- Used pandas, matplotlib, and scikit-learn to analyze and quantify the accuracy of geospatial data from various sources, and ultimately decide which data provider to use.
+
 
 #### Research Assistant, University of Chicago
 Winter 2019 - Present, Chicago
