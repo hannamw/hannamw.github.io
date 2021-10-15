@@ -2,13 +2,18 @@
 *You can also get this resume as a <a href="https://hannamw.github.io/resume/Michael%20Hanna%20Resume%202021.pdf">pdf</a>!*
 
 ## Michael Hanna
-mwhanna@uchicago.edu | (978) 770-9009 | <a href="hannamw.github.io">hannamw.github.io</a>
+(+1) 872-356-8659 | michaelwesley.hanna@studenti.unitn.it | <a href="hannamw.github.io">hannamw.github.io</a>
 
 ### Education
-University of Chicago (expected 2020) &nbsp;GPA: 3.94
-- BS, Computer Science &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;GPA: 3.96
-- BA, Linguistics &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-&nbsp; &nbsp; &nbsp; &nbsp;GPA: 4.0
+University of Trento (expected July 2022)
+- MA, Cognitive Science (language and multimodal interaction track)
+
+Charles University (expected July 2022); GPA: 1 (excellent)
+- Mgr, Computer Science (computational linguistics track)
+
+University of Chicago (June 2020); GPA: 3.96
+- BS with Honors, Computer Science (specialization: machine learning); GPA: 3.95
+- BA with Honors, Linguistics; GPA: 3.96
 
 ### Experience
 
@@ -49,10 +54,10 @@ Feb. 2018 - June 2018, Chicago
 - Korean
 
 ### Coursework
-- Machine Learning
+- Machine Learning {, Theory}
 - Natural Language Processing
 - Computational Linguistics
-- Deep Learning Systems
+- Deep Learning {,Systems}
 - Algorithms
 - Computer {Architecture, Networks}
 
