@@ -1,4 +1,5 @@
 # Resume / CV
+*You can also get this resume as a <a href="https://hannamw.github.io/resume/Michael%20Hanna%20Resume%202021.pdf">pdf</a>!*
 
 ## Michael Hanna
 mwhanna@uchicago.edu | (978) 770-9009 | <a href="hannamw.github.io">hannamw.github.io</a>
