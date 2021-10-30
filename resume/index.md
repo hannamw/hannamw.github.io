@@ -1,5 +1,5 @@
 # Resume / CV
-*You can also get this resume as a <a href="https://hannamw.github.io/resume/Michael%20Hanna%20Resume%202021.pdf">pdf</a>!*
+*This resume is also available as a <a href="https://hannamw.github.io/resume/Michael%20Hanna%20Resume%202021.pdf">pdf</a>.*
 
 ## Michael Hanna
 (+1) 872-356-8659 | michaelwesley.hanna@studenti.unitn.it | <a href="hannamw.github.io">hannamw.github.io</a>
@@ -15,13 +15,14 @@ University of Chicago (June 2020); GPA: 3.96
 - BS with Honors, Computer Science (specialization: machine learning); GPA: 3.95
 - BA with Honors, Linguistics; GPA: 3.96
 
+### Publications
+
 ### Experience
 
 #### Software Engineering Intern, <a href='https://orbitalinsight.com/'>Orbital Insight</a>
 Summer 2019, Boston
 - Wrote monitors in Python to track and plot trends in data, and send alerts when anomalies were detected. Also wrote Dockerfiles for easy deployment to Kubernetes
 - Used pandas, matplotlib, and scikit-learn to analyze and quantify the accuracy of geospatial data from various sources, and ultimately decide which data provider to use.
-
 
 #### Research Assistant, University of Chicago
 Winter 2019 - Present, Chicago
@@ -51,13 +52,14 @@ Feb. 2018 - June 2018, Chicago
 
 ### Selected Coursework
 - Natural Language Processing, Computational Linguistics
-- Machine Learning {, Theory}
-- Deep Learning {,Systems}
+- Machine Learning, ML Theory
+- Deep Learning, DL Systems, Deep Reinforcement Learning
 - Psycholinguistics, Semantics
 
 ### Honors
-- Phi Beta Kappa 
-- FLAG Grant
-- National Merit Scholarship
-- NSLI-Y Summer Recipient
-- SYA Merit Scholarship
+- (2020) <a href='https://lct-master.org/contents_2014/financial-info.php#Scholarships'> Erasmus Mundus Language and Communication Technologies Scholarship</a>
+- (2020) <a href='https://www.pbk.org/About'>Phi Beta Kappa</a>
+- (2018) <a href='https://study-abroad.uchicago.edu/summer-grant/foreign-language-acquisition-grant-flag'>UChicago FLAG Grant</a>
+- (2016) <a href='https://www.nationalmerit.org/s/1758/interior.aspx?sid=1758&gid=2&pgid=424'>National Merit Scholarship</a>
+- (2016) <a href='https://www.nsliforyouth.org/nsli-y/'>NSLI-Y Summer Recipient</a>
+- (2015) School Year Abroad Merit Scholarship
