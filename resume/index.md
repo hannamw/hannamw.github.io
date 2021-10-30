@@ -29,12 +29,7 @@ Winter 2019 - Present, Chicago
 
 #### Grader, University of Chicago Dept. of Computer Science 			
 Fall 2018, Chicago
-- Graded and provided feedback on student projects
-
-#### Research assistant, Pompeu Fabra University 	
-Summer 2018, Barcelona
-- Studied topics in natural language processing and machine and deep learning
-- Used machine and deep learning techniques to evaluate text sentiment
+- Graded the following courses: Computer Systems, Computer Architecture, Time Series Analysis and Stochastic Processes
 
 #### Student Programmer, <a href='http://stemed.uchicago.edu/'>University of Chicago STEM Education</a>
 Feb. 2018 - June 2018, Chicago
