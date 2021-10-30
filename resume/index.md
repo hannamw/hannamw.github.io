@@ -6,10 +6,10 @@
 
 ### Education
 University of Trento (expected July 2022)
-- MA, Cognitive Science (language and multimodal interaction track)
+- MS, Cognitive Science (language and multimodal interaction track)
 
 Charles University (expected July 2022); GPA: 1 (excellent)
-- Mgr, Computer Science (computational linguistics track)
+- MS, Computer Science (computational linguistics track)
 
 University of Chicago (June 2020); GPA: 3.96
 - BS with Honors, Computer Science (specialization: machine learning); GPA: 3.95
@@ -51,15 +51,14 @@ Feb. 2018 - June 2018, Chicago
 
 #### Human
 - Spanish
+- Italian
 - Korean
 
-### Coursework
+### Selected Coursework
+- Natural Language Processing, Computational Linguistics
 - Machine Learning {, Theory}
-- Natural Language Processing
-- Computational Linguistics
 - Deep Learning {,Systems}
-- Algorithms
-- Computer {Architecture, Networks}
+- Psycholinguistics, Semantics
 
 ### Honors
 - Phi Beta Kappa 
