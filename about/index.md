@@ -1,9 +1,10 @@
 # About me
-I'm Michael Hanna, a master's student in the Erasmus Mundus Language and Communications Technology (LCT). I've spent this and the last year in Europe, studying as part of this dual-degree program. Last year, I was in Prague, studying at Charles University. This year, I'm living in Rovereto, Italy, studying at the University of Trento. I expect to finish these degrees in July 2022.
+I'm Michael Hanna, a master's student in the Erasmus Mundus Language and Communications Technology (LCT) dual-degree program. Last year, I was in Prague, studying at Charles University. This year, I'm living in Rovereto, Italy, completing the program at the University of Trento. 
 
 ## Academic Interests
--
--
+- Natural Language Understanding
+- Interpretability
+- Grounded NLP
 
 
 ## Personal Interests
