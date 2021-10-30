@@ -16,6 +16,8 @@ University of Chicago (June 2020); GPA: 3.96
 - BA with Honors, Linguistics; GPA: 3.96
 
 ### Publications
+- (Forthcoming) Michael Hanna and Ondrej Bojar. 2021. <a href='https://hannamw.github.io/papers/bertscore-analysis-unanon.pdf'><b>A Fine-Grained Investigation of BERTScore</b></a>. In Proceedings of the Sixth Conference on Machine Translation. Punta Cana, Dominican Republic (Online). Association for Computational Linguistics
+- (Forthcoming) Michael Hanna and David Marecek. 2021. <a href='https://hannamw.github.io/papers/internship_emnlp.pdf'><b>Investigating BERT's Knowledge of Hypernymy through Prompting</b></a>. In Proceedings of the Fourth BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP. Punta Cana, Dominican Republic. Association for Computational Linguistics
 
 ### Experience
 
