@@ -4,7 +4,7 @@
 
 ### <a href='https://hannamw.github.io/papers/bertscore-analysis-unanon.pdf'>A Fine-Grained Investigation of BERTScore</a>
 
-### <a href='https://hannamw.github.io/papers/internship_emnlp.pdf'>Investigating BERT's Knowledge of Hypernymy through Prompting</a>
+### <a href='https://hannamw.github.io/papers/internship_emnlp.pdf'>Analyzing BERT's Knowledge of Hypernymy via Prompting</a>
 
 ## Software Engineering Projects
 
