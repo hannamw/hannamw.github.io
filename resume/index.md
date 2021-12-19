@@ -8,7 +8,7 @@
 University of Trento (expected July 2022)
 - MS, Cognitive Science (language and multimodal interaction track)
 
-Charles University (expected July 2022); GPA: 1 (excellent)
+Charles University (expected September 2022); GPA: 1 (excellent)
 - MS, Computer Science (computational linguistics track)
 
 University of Chicago (June 2020); GPA: 3.96
