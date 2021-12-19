@@ -13,6 +13,6 @@ I'm Michael Hanna, and this is my personal website. Thanks for giving it a look!
 - <a href='https://hannamw.github.io/resume/#languages'>Skills</a>
 - <a href='https://hannamw.github.io/resume/#honors'>Awards</a>
 
-### <a href='https://hannamw.github.io/projects/#'>Projects</a>
+### <a href='https://hannamw.github.io/projects/#'>Projects / Publications</a>
 - <a href='https://hannamw.github.io/projects/#'>Research</a>
 - <a href='https://hannamw.github.io/projects/#software-engineering-projects'>Software Engineering</a>
