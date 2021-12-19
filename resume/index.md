@@ -21,14 +21,29 @@ University of Chicago (June 2020); GPA: 3.96
 
 ### Experience
 
+#### Research Assistant, Charles University, Institute of Formal and Applied Linguistics 
+December 2021 – Ongoing, Prague
+- Researching the effect of reference translation quality on the reliability of machine translation metrics.
+
+#### Intern, Charles University, Institute of Formal and Applied Linguistics 
+March 2021 – August 2021, Prague
+- Used prompting to probe BERT for knowledge of hypernyms of common words.
+- Conducted empirical experiments comparing BERT’s hypernym discovery performance to existing systems’.
+
+#### Research Assistant, University of Chicago Dept. of Linguistics
+January 2020 - June 2020, Chicago
+- Used unsupervised clustering to test if ELMo embeddings of polysemous words were embedded in distinct clusters in the embedding space; this could allow for unsupervised learning of word senses.
+- Used zero-shot probing tasks to explore the relationship between BERT’s (masked) language modeling abilities / pre-training and its high performance on down-stream tasks.
+
 #### Software Engineering Intern, <a href='https://orbitalinsight.com/'>Orbital Insight</a>
 Summer 2019, Boston
 - Wrote monitors in Python to track and plot trends in data, and send alerts when anomalies were detected. Also wrote Dockerfiles for easy deployment to Kubernetes
 - Used pandas, matplotlib, and scikit-learn to analyze and quantify the accuracy of geospatial data from various sources, and ultimately decide which data provider to use.
 
-#### Research Assistant, University of Chicago
-January 2020 - June 2020, Chicago
-- Conduct research on linguistic interpretability of contextual word embeddings
+#### Board Member, Board Manager (2019), <a href='https://splashchicago.learningu.org/'>Splash! Chicago</a>
+Sept. 2016 – Jun. 2020, Chicago
+- Led Splash! Chicago, a volunteer student group that organizes large (100-student) educational events where
+high school students can learn from university students. Taught classes for Splash! Chicago in linguistics.
 
 #### Grader, University of Chicago Dept. of Computer Science 			
 Fall 2018 - July 2020, Chicago
