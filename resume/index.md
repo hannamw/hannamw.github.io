@@ -16,8 +16,8 @@ University of Chicago (June 2020); GPA: 3.96
 - BA with Honors, Linguistics; GPA: 3.96
 
 ### Publications
-- (Forthcoming) Michael Hanna and Ondrej Bojar. 2021. <a href='https://hannamw.github.io/papers/bertscore-analysis-unanon.pdf'><b>A Fine-Grained Investigation of BERTScore</b></a>. In Proceedings of the Sixth Conference on Machine Translation. Punta Cana, Dominican Republic (Online). Association for Computational Linguistics
-- (Forthcoming) Michael Hanna and David Marecek. 2021. <a href='https://hannamw.github.io/papers/internship_emnlp.pdf'><b>Investigating BERT's Knowledge of Hypernymy through Prompting</b></a>. In Proceedings of the Fourth BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP. Punta Cana, Dominican Republic. Association for Computational Linguistics
+- Michael Hanna and Ondrej Bojar. 2021. <a href='https://hannamw.github.io/papers/bertscore-analysis-unanon.pdf'><b>A Fine-Grained Investigation of BERTScore</b></a>. In Proceedings of the Sixth Conference on Machine Translation. Punta Cana, Dominican Republic (Online). Association for Computational Linguistics
+- Michael Hanna and David Marecek. 2021. <a href='https://hannamw.github.io/papers/internship_emnlp.pdf'><b>Investigating BERT's Knowledge of Hypernymy through Prompting</b></a>. In Proceedings of the Fourth BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP. Punta Cana, Dominican Republic. Association for Computational Linguistics
 
 ### Experience
 
@@ -27,12 +27,12 @@ Summer 2019, Boston
 - Used pandas, matplotlib, and scikit-learn to analyze and quantify the accuracy of geospatial data from various sources, and ultimately decide which data provider to use.
 
 #### Research Assistant, University of Chicago
-Winter 2019 - Present, Chicago
+January 2020 - June 2020, Chicago
 - Conduct research on linguistic interpretability of contextual word embeddings
 
 #### Grader, University of Chicago Dept. of Computer Science 			
-Fall 2018, Chicago
-- Graded the following courses: Computer Systems, Computer Architecture, Time Series Analysis and Stochastic Processes
+Fall 2018 - July 2020, Chicago
+- Graded the following courses: Intro to CS, Computer Systems, Computer Architecture, Time Series Analysis and Stochastic Processes
 
 #### Student Programmer, <a href='http://stemed.uchicago.edu/'>University of Chicago STEM Education</a>
 Feb. 2018 - June 2018, Chicago
@@ -53,10 +53,10 @@ Feb. 2018 - June 2018, Chicago
 - Korean
 
 ### Selected Coursework
-- Natural Language Processing, Computational Linguistics
+- Natural Language Processing, Computational Linguistics, Grounded Language Processing
 - Machine Learning, ML Theory
 - Deep Learning, DL Systems, Deep Reinforcement Learning
-- Psycholinguistics, Semantics
+- Psycholinguistics, Cognitive Science, Semantics, Syntax
 
 ### Honors
 - (2020) <a href='https://lct-master.org/contents_2014/financial-info.php#Scholarships'> Erasmus Mundus Language and Communication Technologies Scholarship</a>
