@@ -16,8 +16,8 @@ University of Chicago (June 2020); GPA: 3.96
 - BA with Honors, Linguistics; GPA: 3.96
 
 ### Publications
-- Michael Hanna and Ondrej Bojar. 2021. <a href='https://hannamw.github.io/papers/bertscore-analysis-unanon.pdf'><b>A Fine-Grained Investigation of BERTScore</b></a>. In Proceedings of the Sixth Conference on Machine Translation. Punta Cana, Dominican Republic (Online). Association for Computational Linguistics
-- Michael Hanna and David Marecek. 2021. <a href='https://hannamw.github.io/papers/internship_emnlp.pdf'><b>Investigating BERT's Knowledge of Hypernymy through Prompting</b></a>. In Proceedings of the Fourth BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP. Punta Cana, Dominican Republic. Association for Computational Linguistics
+- Michael Hanna and Ondrej Bojar. 2021. <a href='https://www.statmt.org/wmt21/pdf/2021.wmt-1.59.pdf'><b>A Fine-Grained Investigation of BERTScore</b></a>. In Proceedings of the Sixth Conference on Machine Translation. Punta Cana, Dominican Republic (Online). Association for Computational Linguistics
+- Michael Hanna and David Marecek. 2021. <a href='https://aclanthology.org/2021.blackboxnlp-1.20/'><b>Investigating BERT's Knowledge of Hypernymy through Prompting</b></a>. In Proceedings of the Fourth BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP. Punta Cana, Dominican Republic. Association for Computational Linguistics
 
 ### Experience
 
@@ -36,7 +36,7 @@ Fall 2018 - July 2020, Chicago
 
 #### Student Programmer, <a href='http://stemed.uchicago.edu/'>University of Chicago STEM Education</a>
 Feb. 2018 - June 2018, Chicago
-- Fix and refactor projects in Scratch that teach elementary and middle school students about math and computer science
+- Fixed and refactored projects in Scratch that teach elementary and middle school students about math and computer science
 - Developed new projects in Scratch to meet specific STEM learning goals
 
 ### Languages
@@ -61,6 +61,8 @@ Feb. 2018 - June 2018, Chicago
 ### Honors
 - (2020) <a href='https://lct-master.org/contents_2014/financial-info.php#Scholarships'> Erasmus Mundus Language and Communication Technologies Scholarship</a>
 - (2020) <a href='https://www.pbk.org/About'>Phi Beta Kappa</a>
+- (2020) Enrico Fermi Scholar: top 5% of undergraduate major (computer science)
+- (2020) Georgiana Simpson Scholar: top 5% of undergraduate major (linguistics)
 - (2018) <a href='https://study-abroad.uchicago.edu/summer-grant/foreign-language-acquisition-grant-flag'>UChicago FLAG Grant</a>
 - (2016) <a href='https://www.nationalmerit.org/s/1758/interior.aspx?sid=1758&gid=2&pgid=424'>National Merit Scholarship</a>
 - (2016) <a href='https://www.nsliforyouth.org/nsli-y/'>NSLI-Y Summer Recipient</a>
