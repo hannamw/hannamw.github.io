@@ -1,5 +1,5 @@
-# Resume / CV
-*This resume is also available as a <a href="https://hannamw.github.io/resume/Michael%20Hanna%20Resume%202021.pdf">pdf</a>.*
+# CV/Resume
+*This resume is also available as a <a href="https://hannamw.github.io/resume/Michael%20Hanna%20Resume%202021%20GS.pdf">pdf</a>.*
 
 ## Michael Hanna
 (+1) 872-356-8659 | michaelwesley.hanna@studenti.unitn.it | <a href="hannamw.github.io">hannamw.github.io</a>
