@@ -8,7 +8,7 @@
 University of Trento (expected July 2022)
 - MS, Cognitive Science (language and multimodal interaction track)
 
-Charles University (expected September 2022); GPA: 1 (excellent)
+Charles University (expected September 2022); GPA: 1 (=A: excellent)
 - MS, Computer Science (computational linguistics track)
 
 University of Chicago (June 2020); GPA: 3.96
@@ -82,3 +82,6 @@ Feb. 2018 - June 2018, Chicago
 - (2016) <a href='https://www.nationalmerit.org/s/1758/interior.aspx?sid=1758&gid=2&pgid=424'>National Merit Scholarship</a>
 - (2016) <a href='https://www.nsliforyouth.org/nsli-y/'>NSLI-Y Summer Recipient</a>
 - (2015) School Year Abroad Merit Scholarship
+
+### Standardized Exams
+- GRE (2019): 168 V / 169 Q / 6.0 AW
