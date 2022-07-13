@@ -5,7 +5,7 @@
 (+1) 872-356-8659 | michaelwesley.hanna@studenti.unitn.it | <a href="hannamw.github.io">hannamw.github.io</a>
 
 ### Education
-University of Trento (expected July 2022)
+University of Trento (July 2022); GPA: 110/110 (with honors)
 - MS, Cognitive Science (language and multimodal interaction track)
 
 Charles University (expected September 2022); GPA: 1 (=A: excellent)
