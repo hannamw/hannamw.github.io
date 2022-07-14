@@ -3,8 +3,8 @@ Hi—I'm Michael Hanna! I'm interested in interpreting and evaluating NLP models
 <!-- with <a href='http://disi.unitn.it/~bernardi/'>Prof. Raffaella Bernardi</a>. -->
 ## News
 - July 2022: I graduated from the University of Trento (Cognitive Science)! Stay tuned for news about my thesis, supervised by <a href="https://webapps.unitn.it/du/en/Persona/PER0001015/Curriculum">Roberto Zamparelli</a>, on using causal interventions to understand subject-verb agreement in large language models.
-- November 2021: New paper on BERTScore's success in failures with <a href='https://ufal.mff.cuni.cz/ondrej-bojar'>Ondrej Bojar</a> at (<a href='https://www.statmt.org/wmt21/pdf/2021.wmt-1.59.pdf'>WMT 2021</a>)
-- November 2021: New paper on knowledge of hypernymy in BERT with <a href='https://ufal.mff.cuni.cz/david-marecek'>David Marecek</a> at (<a href='https://aclanthology.org/2021.blackboxnlp-1.20/'>BlackboxNLP 2021</a>)
+- November 2021: New paper on BERTScore's success in failures with <a href='https://ufal.mff.cuni.cz/ondrej-bojar'>Ondrej Bojar</a> at <a href='https://www.statmt.org/wmt21/pdf/2021.wmt-1.59.pdf'>WMT 2021</a>
+- November 2021: New paper on knowledge of hypernymy in BERT with <a href='https://ufal.mff.cuni.cz/david-marecek'>David Marecek</a> at <a href='https://aclanthology.org/2021.blackboxnlp-1.20/'>BlackboxNLP 2021</a>
 - June 2020: I graduated from the University of Chicago (CS and Linguistics)! I wrote an honors thesis on interpreting variational autoencoders for sentences, advised by <a href='https://aetting.github.io/'>Allyson Ettinger</a>.
 
 ## Academic Interests
