@@ -1,7 +1,8 @@
-Hi—I'm Michael Hanna! I'm interested in interpreting and evaluating NLP models from a linguist's and cognitive scientist's point of view. I'm also interested in the parallels between grounding in humans and multimodal models. Currently, I'm finishing my master's degrees through the <a href="https://lct-master.org/">Erasmus Mundus Language and Communications Technology</a> (LCT) dual-degree program at the University of Trento and Charles University. Once these are complete, I will begin a PhD at the Institute for Logic, Language, and Computation at the University of Amsterdam, supervised by Sandro Pezzelle (and one co-supervisor), through the ELLIS program!
+Hi—I'm Michael Hanna! I'm interested in interpreting and evaluating NLP models from a linguist's and cognitive scientist's point of view. 
+
+Currently, I'm finishing my master's degrees through the <a href="https://lct-master.org/">Erasmus Mundus Language and Communications Technology</a> (LCT) dual-degree program at the University of Trento and Charles University. Once these are complete, I will begin a PhD at the Institute for Logic, Language, and Computation at the University of Amsterdam, supervised by Sandro Pezzelle (and one co-supervisor), through the ELLIS program!
 
 <!-- with <a href='http://disi.unitn.it/~bernardi/'>Prof. Raffaella Bernardi</a>. -->
-
 ## News
 - July 2022: I graduated from the University of Trento (Cognitive Science)! Stay tuned for news about my thesis, with Roberto Zamparelli, on using causal interventions to understand subject-verb agreement in large language models.
 - November 2021: New paper on BERTScore's success in failures with <a href='https://ufal.mff.cuni.cz/ondrej-bojar'>Ondrej Bojar</a> at (<a href='https://www.statmt.org/wmt21/pdf/2021.wmt-1.59.pdf'>WMT 2021</a>)
