@@ -1,13 +1,11 @@
-Hi—I'm Michael Hanna! I'm interested in interpreting and evaluating NLP models from a linguist's and cognitive scientist's point of view. 
-
-Currently, I'm finishing my master's degrees through the <a href="https://lct-master.org/">Erasmus Mundus Language and Communications Technology</a> (LCT) dual-degree program at the University of Trento and Charles University. Once these are complete, I will begin a PhD at the Institute for Logic, Language, and Computation at the University of Amsterdam, supervised by Sandro Pezzelle (and one co-supervisor), through the ELLIS program!
+Hi—I'm Michael Hanna! I'm interested in interpreting and evaluating NLP models from a linguist's and cognitive scientist's point of view. Currently, I'm finishing my master's degrees through the <a href="https://lct-master.org/">EM LCT</a> dual-degree program at the University of Trento and Charles University. Once these are complete, I will begin a PhD at the <a href="https://www.illc.uva.nl/">ILLC</a> at the University of Amsterdam, supervised by <a href="https://sandropezzelle.github.io/">Sandro Pezzelle</a> (and one co-supervisor), through <a href="https://ellis.eu/phd-postdoc">ELLIS</a>!
 
 <!-- with <a href='http://disi.unitn.it/~bernardi/'>Prof. Raffaella Bernardi</a>. -->
 ## News
-- July 2022: I graduated from the University of Trento (Cognitive Science)! Stay tuned for news about my thesis, with Roberto Zamparelli, on using causal interventions to understand subject-verb agreement in large language models.
+- July 2022: I graduated from the University of Trento (Cognitive Science)! Stay tuned for news about my thesis, supervised by <a href="https://webapps.unitn.it/du/en/Persona/PER0001015/Curriculum">Roberto Zamparelli</a>, on using causal interventions to understand subject-verb agreement in large language models.
 - November 2021: New paper on BERTScore's success in failures with <a href='https://ufal.mff.cuni.cz/ondrej-bojar'>Ondrej Bojar</a> at (<a href='https://www.statmt.org/wmt21/pdf/2021.wmt-1.59.pdf'>WMT 2021</a>)
 - November 2021: New paper on knowledge of hypernymy in BERT with <a href='https://ufal.mff.cuni.cz/david-marecek'>David Marecek</a> at (<a href='https://aclanthology.org/2021.blackboxnlp-1.20/'>BlackboxNLP 2021</a>)
-- June 2020: I graduated from the University of Chicago (CS and Linguistics)! I wrote an hoonrs thesis on interpreting variational autoencoders for sentences, advised by <a href='https://aetting.github.io/'>Allyson Ettinger</a>.
+- June 2020: I graduated from the University of Chicago (CS and Linguistics)! I wrote an honors thesis on interpreting variational autoencoders for sentences, advised by <a href='https://aetting.github.io/'>Allyson Ettinger</a>.
 
 ## Academic Interests
 My main research interest is creating models with human-like abilities. I'm interested in approaching this goal by using linguistically-motivated **interpretability and analysis** methods to ask "How close are models' abilities to those of humans?". I'm also interested in **grounded NLP**, especially when that grounding goes beyond vision, to include additional modalities and embodiment. I'm excited about using ideas from linguistics and cognitive science to improve deep learning models and training regimes.
