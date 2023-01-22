@@ -19,8 +19,10 @@ University of Chicago (June 2020); GPA: 3.96
 - BA with Honors, Linguistics; GPA: 3.96
 
 ### Publications
-- Michael Hanna and Ondrej Bojar. 2021. <a href='https://www.statmt.org/wmt21/pdf/2021.wmt-1.59.pdf'><b>A Fine-Grained Investigation of BERTScore</b></a>. In Proceedings of the Sixth Conference on Machine Translation. Punta Cana, Dominican Republic (Online). Association for Computational Linguistics
-- Michael Hanna and David Marecek. 2021. <a href='https://aclanthology.org/2021.blackboxnlp-1.20/'><b>Investigating BERT's Knowledge of Hypernymy through Prompting</b></a>. In Proceedings of the Fourth BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP. Punta Cana, Dominican Republic. Association for Computational Linguistics
+- Michael Hanna, Roberto Zamparelli, and David Marecek. 2023. **The Functional Relevance of Probed Information: A Case Study**. European Association of Computational Linguistics (*to appear*)
+- Michael Hanna, Federico Pedeni, Alessandro Suglia, Alberto Testoni, and Raffaella Bernardi. 2022. [**ACT-Thor: A Controlled Benchmark for Embodied Action Understanding in Simulated Environments**](https://aclanthology.org/2022.coling-1.495.pdf). In Proceedings of the 29th International Conference on Computational Linguistics, Gyeongju, Republic of Korea. International Committee on Computational Linguistics.
+- Michael Hanna and Ondrej Bojar. 2021. [**A Fine-Grained Investigation of BERTScore**](https://www.statmt.org/wmt21/pdf/2021.wmt-1.59.pdf). In Proceedings of the Sixth Conference on Machine Translation. Punta Cana, Dominican Republic (Online). Association for Computational Linguistics
+- Michael Hanna and David Marecek. 2021. [**Investigating BERT's Knowledge of Hypernymy through Prompting**](https://aclanthology.org/2021.blackboxnlp-1.20/). In Proceedings of the Fourth BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP. Punta Cana, Dominican Republic. Association for Computational Linguistics
 
 ### Experience
 
