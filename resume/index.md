@@ -2,9 +2,12 @@
 *This resume is also available as a <a href="https://hannamw.github.io/resume/Michael%20Hanna%20Resume%202021%20GS.pdf">pdf</a>.*
 
 ## Michael Hanna
-(+1) 872-356-8659 | michaelwesley.hanna@studenti.unitn.it | <a href="hannamw.github.io">hannamw.github.io</a>
+(+1) 872-356-8659 | m.w.hanna@uva.nl | <a href="hannamw.github.io">hannamw.github.io</a>
 
 ### Education
+University of Amsterdam, Institute for Logic, Language, and Computation (September 2022 - September 2026 (expected))
+- PhD, Computational Linguistics
+
 Charles University (September 2022); GPA: 1 (=A: excellent, with honors)
 - MS, Computer Science (computational linguistics track)
 
@@ -20,6 +23,10 @@ University of Chicago (June 2020); GPA: 3.96
 - Michael Hanna and David Marecek. 2021. <a href='https://aclanthology.org/2021.blackboxnlp-1.20/'><b>Investigating BERT's Knowledge of Hypernymy through Prompting</b></a>. In Proceedings of the Fourth BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP. Punta Cana, Dominican Republic. Association for Computational Linguistics
 
 ### Experience
+
+#### Research Resident, Redwood Research 
+January 2023
+- Using mechanistic interpretability techniques to understand GPT-2's behavior, as part of the REMIX program
 
 #### Research Assistant, Charles University, Institute of Formal and Applied Linguistics 
 December 2021 – Ongoing, Prague
