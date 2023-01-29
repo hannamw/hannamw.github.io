@@ -1,5 +1,5 @@
 # CV/Resume
-*This resume is also available as a <a href="https://hannamw.github.io/resume/Michael%20Hanna%20Resume%202021%20GS.pdf">pdf</a>.*
+*This resume is also available as a <a href="https://hannamw.github.io/resume/Michael_Hanna_Resume_2023.pdf">pdf</a>.*
 
 ## Michael Hanna
 (+1) 872-356-8659 | m.w.hanna@uva.nl | <a href="hannamw.github.io">hannamw.github.io</a>
