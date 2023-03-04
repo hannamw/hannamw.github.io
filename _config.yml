@@ -2,5 +2,8 @@ title: Michael Hanna
 author: Michael Hanna
 email: michaelwesley.hanna@studenti.unitn.it
 logo: /assets/img/logo.jpg
-theme: jekyll-theme-minimal
+remote-theme: pages-themes/minimal@v0.2.0
 google_analytics: G-19NNF9EEH5
+
+plugins:
+- jekyll-remote-theme
