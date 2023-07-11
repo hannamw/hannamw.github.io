@@ -19,7 +19,8 @@ University of Chicago (June 2020); GPA: 3.96
 - BA with Honors, Linguistics; GPA: 3.96
 
 ### Publications
-- Michael Hanna, Roberto Zamparelli, and David Marecek. 2023. **The Functional Relevance of Probed Information: A Case Study**. European Association of Computational Linguistics (*to appear*)
+- Michael Hanna, Ollie Liu, and Alexandre Variengien. 2023. [**How does GPT-2 compute greater-than?: Interpreting mathematical abilities in a pre-trained language model**](https://arxiv.org/abs/2305.00586). In ArXiv. Under review.
+- Michael Hanna, Roberto Zamparelli, and David Mareček. 2023. [**The Functional Relevance of Probed Information: A Case Study**](https://aclanthology.org/2023.eacl-main.58/). In Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics, pages 835–848, Dubrovnik, Croatia. Association for Computational Linguistics.
 - Michael Hanna, Federico Pedeni, Alessandro Suglia, Alberto Testoni, and Raffaella Bernardi. 2022. [**ACT-Thor: A Controlled Benchmark for Embodied Action Understanding in Simulated Environments**](https://aclanthology.org/2022.coling-1.495.pdf). In Proceedings of the 29th International Conference on Computational Linguistics, Gyeongju, Republic of Korea. International Committee on Computational Linguistics.
 - Michael Hanna and Ondrej Bojar. 2021. [**A Fine-Grained Investigation of BERTScore**](https://www.statmt.org/wmt21/pdf/2021.wmt-1.59.pdf). In Proceedings of the Sixth Conference on Machine Translation. Punta Cana, Dominican Republic (Online). Association for Computational Linguistics
 - Michael Hanna and David Marecek. 2021. [**Investigating BERT's Knowledge of Hypernymy through Prompting**](https://aclanthology.org/2021.blackboxnlp-1.20/). In Proceedings of the Fourth BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP. Punta Cana, Dominican Republic. Association for Computational Linguistics
