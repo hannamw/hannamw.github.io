@@ -29,7 +29,7 @@ University of Chicago (June 2020); GPA: 3.96
 
 #### Research Resident, Redwood Research 
 January 2023
-- Using mechanistic interpretability techniques to understand GPT-2's behavior, as part of the REMIX program
+- Using mechanistic interpretability techniques to understand GPT-2's behavior, as part of the [REMIX program](https://www.redwoodresearch.org/remix)
 
 #### Research Assistant, Charles University, Institute of Formal and Applied Linguistics 
 December 2021 – Ongoing, Prague
