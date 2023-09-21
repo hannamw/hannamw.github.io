@@ -13,7 +13,7 @@ I'm Michael Hanna, a PhD student at the [ILLC](https://www.illc.uva.nl/) at the 
 - **June 2020**: I graduated from the University of Chicago (CS and Linguistics)! I wrote an honors thesis on interpreting variational autoencoders for sentences, advised by [Allyson Ettinger](https://aetting.github.io/).
 
 ## Publications
-**Michael Hanna**, Ollie Liu, and Alexandre Variengien. 2023. *How does GPT-2 compute greater-than?: Interpreting mathematical abilities in a pre-trained language model*. In ArXiv. Under review.
+**Michael Hanna**, Ollie Liu, and Alexandre Variengien. 2023. *How does GPT-2 compute greater-than?: Interpreting mathematical abilities in a pre-trained language model*. To appear at The Thirty-seventh Conference on Neural Information Processing Systems.
 
 **Michael Hanna**, Roberto Zamparelli, and David Mareček. 2023. *The Functional Relevance of Probed Information: A Case Study*. In Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics, pages 835–848, Dubrovnik, Croatia. Association for Computational Linguistics.
 
