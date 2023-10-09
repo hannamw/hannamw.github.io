@@ -1,10 +1,11 @@
 I'm Michael Hanna, a PhD student at the [ILLC](https://www.illc.uva.nl/) at the University of Amsterdam, supervised by [Sandro Pezzelle](https://sandropezzelle.github.io/) and [Yonatan Belinkov](https://www.cs.technion.ac.il/~belinkov/), through [ELLIS](https://ellis.eu/projects/interpreting-nlp-models-through-the-lens-of-cognition-and-linguistics). I'm interested in interpreting and evaluating NLP models by combining techniques from diverse fields such as cognitive science and mechanistic interpretability.
 
 ## News
+- **October 2023**: New [paper](https://hannamw.github.io/papers/EMNLP_2023_LM_Animacy.pdf) on transformer LMs' animacy processing accepted to EMNLP 2023!
 - **September 2023**: New [paper](http://arxiv.org/abs/2305.00586) on GPT-2's partially generalizable circuit for greater-than has been accepted to NeurIPS 2023!
 - **July-September 2023**: I attended [Lisbon Machine Learning Summer School](http://lxmls.it.pt/2023/), and the [Analytical Connectionism Summer Course](https://www.ucl.ac.uk/gatsby/analytical-connectionism-2023)! I presented [this poster](https://hannamw.github.io/papers/ac2023_poster.pdf) at the latter school.
 - **January 2023**: New [paper](https://aclanthology.org/2023.eacl-main.58/) based on my master's thesis accepted to EACL!
-- **January 2022**: I spent January 2023 participating in Redwood Research's [REMIX](https://www.redwoodresearch.org/remix) program!
+- **January 2023**: I spent January 2023 participating in Redwood Research's [REMIX](https://www.redwoodresearch.org/remix) program!
 - **September 2022**: I graduated from the University of Trento (Cognitive Science) and Charles University in Prague (Computer Science), as part of the [EM LCT](https://lct-master.org/) dual-degree master's program! My thesis, supervised by [Roberto Zamparelli](https://webapps.unitn.it/du/en/Persona/PER0001015/Curriculum) and [David Mareček](https://ufal.mff.cuni.cz/david-marecek), is available [here](https://hannamw.github.io/papers/thesis_michael_hanna.pdf).
 - **August 2022**: New [paper](https://aclanthology.org/2022.coling-1.495/) at [COLING 2022](https://coling2022.org/)!
 - **November 2021**: New papers at [WMT 2021](https://www.statmt.org/wmt21/pdf/2021.wmt-1.59.pdf) and [BlackboxNLP 2021](https://aclanthology.org/2021.blackboxnlp-1.20/).
