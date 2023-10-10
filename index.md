@@ -8,19 +8,21 @@ I'm Michael Hanna, a PhD student at the [ILLC](https://www.illc.uva.nl/) at the 
 - **January 2023**: I spent January 2023 participating in Redwood Research's [REMIX](https://www.redwoodresearch.org/remix) program!
 - **September 2022**: I graduated from the University of Trento (Cognitive Science) and Charles University in Prague (Computer Science), as part of the [EM LCT](https://lct-master.org/) dual-degree master's program! My thesis, supervised by [Roberto Zamparelli](https://webapps.unitn.it/du/en/Persona/PER0001015/Curriculum) and [David Mareček](https://ufal.mff.cuni.cz/david-marecek), is available [here](https://hannamw.github.io/papers/thesis_michael_hanna.pdf).
 - **August 2022**: New [paper](https://aclanthology.org/2022.coling-1.495/) at [COLING 2022](https://coling2022.org/)!
-- **November 2021**: New papers at [WMT 2021](https://www.statmt.org/wmt21/pdf/2021.wmt-1.59.pdf) and [BlackboxNLP 2021](https://aclanthology.org/2021.blackboxnlp-1.20/).
+- **November 2021**: New papers at [WMT 2021](https://aclanthology.org/2021.wmt-1.59/) and [BlackboxNLP 2021](https://aclanthology.org/2021.blackboxnlp-1.20/)!
 - **June 2020**: I graduated from the University of Chicago (CS and Linguistics)! I wrote an honors thesis on interpreting variational autoencoders for sentences, advised by [Allyson Ettinger](https://aetting.github.io/).
 
-## Publications
-**Michael Hanna**, Ollie Liu, and Alexandre Variengien. 2023. *How does GPT-2 compute greater-than?: Interpreting mathematical abilities in a pre-trained language model*. To appear at the Thirty-seventh Conference on Neural Information Processing Systems.
+## Selected Publications
+Michael Hanna, Yonatan Belinkov, and Sandro Pezzelle. 2023. [When Language Models Fall in Love: Animacy Processing in Transformer Language Models](https://hannamw.github.io/papers/EMNLP_2023_LM_Animacy.pdf). To appear in Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP). **(EMNLP 2023)**
 
-**Michael Hanna**, Roberto Zamparelli, and David Mareček. 2023. *The Functional Relevance of Probed Information: A Case Study*. In Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics, pages 835–848, Dubrovnik, Croatia. Association for Computational Linguistics.
+**Michael Hanna**, Ollie Liu, and Alexandre Variengien. 2023. [How does GPT-2 compute greater-than?: Interpreting mathematical abilities in a pre-trained language model](http://arxiv.org/abs/2305.00586). To appear at the Thirty-seventh Conference on Neural Information Processing Systems. **(NeurIPS 2023)**
 
-**Michael Hanna**, Federico Pedeni, Alessandro Suglia, Alberto Testoni, and Raffaella Bernardi. 2022. *ACT-Thor: A Controlled Benchmark for Embodied Action Understanding in Simulated Environments*. In Proceedings of the 29th International Conference on Computational Linguistics, Gyeongju, Republic of Korea. International Committee on Computational Linguistics.
+**Michael Hanna**, Roberto Zamparelli, and David Mareček. 2023. [The Functional Relevance of Probed Information: A Case Study](https://aclanthology.org/2023.eacl-main.58/). In Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics, pages 835–848, Dubrovnik, Croatia. Association for Computational Linguistics. **(EACL 2023)**
 
-**Michael Hanna** and Ondrej Bojar. 2021. *A Fine-Grained Investigation of BERTScore*. In Proceedings of the Sixth Conference on Machine Translation. Punta Cana, Dominican Republic (Online). Association for Computational Linguistics
+**Michael Hanna**, Federico Pedeni, Alessandro Suglia, Alberto Testoni, and Raffaella Bernardi. 2022. [ACT-Thor: A Controlled Benchmark for Embodied Action Understanding in Simulated Environments](https://aclanthology.org/2022.coling-1.495/). In Proceedings of the 29th International Conference on Computational Linguistics, Gyeongju, Republic of Korea. International Committee on Computational Linguistics. **(COLING 2022)**
 
-**Michael Hanna** and David Marecek. 2021. *Investigating BERT’s Knowledge of Hypernymy through Prompting*. In Proceedings of the Fourth BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP. Punta Cana, Dominican Republic. Association for Computational Linguistics
+**Michael Hanna** and Ondrej Bojar. 2021. [A Fine-Grained Investigation of BERTScore](https://aclanthology.org/2021.wmt-1.59/). In Proceedings of the Sixth Conference on Machine Translation. Punta Cana, Dominican Republic (Online). Association for Computational Linguistics. **(WMT 2021)**
+
+**Michael Hanna** and David Marecek. 2021. [Investigating BERT’s Knowledge of Hypernymy through Prompting](https://aclanthology.org/2021.blackboxnlp-1.20/). In Proceedings of the Fourth BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP. Punta Cana, Dominican Republic. Association for Computational Linguistics. **(BlackBoxNLP 2021)**
 
 ## Academic Interests
 My main research interest, interpretability in the context of modern language models, is twofold. First, I'm interested in asking "What are the abilities of these models?" from a perspective informed by linguistics and cognitive science. In this so-called behavioral paradigm, I study these models on a pure input-output level, leveraging the wide body of psycholinguistic research conducted on humans. Second, I'm interested in answering "How do these models achieve such impressive performance on linguistic tasks?", using techniques from (mechanistic) interpretability. I use causal interventions to perform low-level studies of language models, uncovering the mechanisms that drive their behavior.
