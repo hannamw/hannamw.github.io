@@ -12,15 +12,13 @@ I'm Michael Hanna, a PhD student at the [ILLC](https://www.illc.uva.nl/) at the 
 - **June 2020**: I graduated from the University of Chicago (CS and Linguistics)! I wrote an honors thesis on interpreting variational autoencoders for sentences, advised by [Allyson Ettinger](https://aetting.github.io/).
 
 ## Selected Publications
-Michael Hanna, Yonatan Belinkov, and Sandro Pezzelle. 2023. [When Language Models Fall in Love: Animacy Processing in Transformer Language Models](https://hannamw.github.io/papers/EMNLP_2023_LM_Animacy.pdf). To appear in Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP). **(EMNLP 2023)**
+**Michael Hanna**, Yonatan Belinkov, and Sandro Pezzelle. 2023. [When Language Models Fall in Love: Animacy Processing in Transformer Language Models](https://hannamw.github.io/papers/EMNLP_2023_LM_Animacy.pdf). To appear in Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP). **(EMNLP 2023)**
 
 **Michael Hanna**, Ollie Liu, and Alexandre Variengien. 2023. [How does GPT-2 compute greater-than?: Interpreting mathematical abilities in a pre-trained language model](http://arxiv.org/abs/2305.00586). To appear at the Thirty-seventh Conference on Neural Information Processing Systems. **(NeurIPS 2023)**
 
 **Michael Hanna**, Roberto Zamparelli, and David Mareček. 2023. [The Functional Relevance of Probed Information: A Case Study](https://aclanthology.org/2023.eacl-main.58/). In Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics, pages 835–848, Dubrovnik, Croatia. Association for Computational Linguistics. **(EACL 2023)**
 
-**Michael Hanna**, Federico Pedeni, Alessandro Suglia, Alberto Testoni, and Raffaella Bernardi. 2022. [ACT-Thor: A Controlled Benchmark for Embodied Action Understanding in Simulated Environments](https://aclanthology.org/2022.coling-1.495/). In Proceedings of the 29th International Conference on Computational Linguistics, Gyeongju, Republic of Korea. International Committee on Computational Linguistics. **(COLING 2022)**
-
-**Michael Hanna** and Ondrej Bojar. 2021. [A Fine-Grained Investigation of BERTScore](https://aclanthology.org/2021.wmt-1.59/). In Proceedings of the Sixth Conference on Machine Translation. Punta Cana, Dominican Republic (Online). Association for Computational Linguistics. **(WMT 2021)**
+**Michael Hanna\***, Federico Pedeni\*, Alessandro Suglia, Alberto Testoni, and Raffaella Bernardi. 2022. [ACT-Thor: A Controlled Benchmark for Embodied Action Understanding in Simulated Environments](https://aclanthology.org/2022.coling-1.495/). In Proceedings of the 29th International Conference on Computational Linguistics, Gyeongju, Republic of Korea. International Committee on Computational Linguistics. **(COLING 2022)**
 
 **Michael Hanna** and David Marecek. 2021. [Investigating BERT’s Knowledge of Hypernymy through Prompting](https://aclanthology.org/2021.blackboxnlp-1.20/). In Proceedings of the Fourth BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP. Punta Cana, Dominican Republic. Association for Computational Linguistics. **(BlackBoxNLP 2021)**
 
