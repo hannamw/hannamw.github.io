@@ -11,7 +11,9 @@ I'm Michael Hanna, a PhD student at the [ILLC](https://www.illc.uva.nl/) at the 
 - **November 2021**: New papers at [WMT 2021](https://aclanthology.org/2021.wmt-1.59/) and [BlackboxNLP 2021](https://aclanthology.org/2021.blackboxnlp-1.20/)!
 - **June 2020**: I graduated from the University of Chicago (CS and Linguistics)! I wrote an honors thesis on interpreting variational autoencoders for sentences, advised by [Allyson Ettinger](https://aetting.github.io/).
 
-## Selected Publications
+## Selected Publications 
+For a full list, see [Publications](https://hannamw.github.io/publications/). 
+
 **Michael Hanna**, Yonatan Belinkov, and Sandro Pezzelle. 2023. [When Language Models Fall in Love: Animacy Processing in Transformer Language Models](https://hannamw.github.io/papers/EMNLP_2023_LM_Animacy.pdf). To appear in Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP). **(EMNLP 2023)**
 
 **Michael Hanna**, Ollie Liu, and Alexandre Variengien. 2023. [How does GPT-2 compute greater-than?: Interpreting mathematical abilities in a pre-trained language model](http://arxiv.org/abs/2305.00586). To appear at the Thirty-seventh Conference on Neural Information Processing Systems. **(NeurIPS 2023)**
@@ -29,15 +31,3 @@ My main research interest, interpretability in the context of modern language mo
 - **Living Abroad**: I've participated in a number of programs, most of them free, that have allowed me to live in other countries and learn new ways of life. I've spent time living in in Spain ([SYA](https://www.sya.org/)), Korea ([NSLI-Y](https://www.nsliforyouth.org/), [FLAG](https://study-abroad.uchicago.edu/summer-grant/foreign-language-acquisition-grant-flag)), Czechia, and Italy ([LCT](https://lct-master.org/)), the Netherlands, and (soon) Israel ([ELLIS](https://ellis.eu/)). If you're in high school or university and want to know more about opportunities like this, shoot me an email—I'm happy to share more info about programs that will let you live abroad for free!
 - **Urbanism**: I'm fascinated by the way that our built environment affects our lives. I'm a big fan of walkable neighborhoods, public transportation, and the power of well-designed spaces to bring people together.
 - **Vocal Performance**: During my undergrad, I was a baritone in [Run for Cover](http://runforcover.uchicago.edu/), an a cappella group at UChicago. Check us out on [Spotify](https://play.spotify.com/artist/1WN22dBwn6fM3biZufox5W) or [iTunes](https://itunes.apple.com/us/artist/run-for-cover/id848631625)!
-
-## More info:
-### [CV/Resume](https://hannamw.github.io/resume/)
-- [Contact](https://hannamw.github.io/resume/)
-- [Education](https://hannamw.github.io/resume/#education)
-- [Experience](https://hannamw.github.io/resume/#experience)
-- [Skills](https://hannamw.github.io/resume/#languages)
-- [Awards](https://hannamw.github.io/resume/#honors)
-
-### [Projects/Publications](https://hannamw.github.io/projects/#)
-- [Research](https://hannamw.github.io/projects/#)
-- [Software Engineering](https://hannamw.github.io/projects/#software-engineering-projects)
