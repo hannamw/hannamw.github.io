@@ -2,7 +2,7 @@
 
 **Michael Hanna**, Yonatan Belinkov, and Sandro Pezzelle. 2023. [When Language Models Fall in Love: Animacy Processing in Transformer Language Models](https://hannamw.github.io/papers/EMNLP_2023_LM_Animacy.pdf). To appear in Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP). **(EMNLP 2023)**
 
-Abhijith Chintam, Rahel Beloch, Willem Zuidema, **Michael Hanna\***, and Oskar van der Wal. 2023. *Identifying and Adapting Transformer-Components Responsible for Gender Bias in an English Language Model*. To appear in Proceedings of the Sixth BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP. **(BlackBoxNLP 2023)**
+Abhijith Chintam, Rahel Beloch, Willem Zuidema, **Michael Hanna\***, and Oskar van der Wal\*. 2023. *Identifying and Adapting Transformer-Components Responsible for Gender Bias in an English Language Model*. To appear in Proceedings of the Sixth BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP. **(BlackBoxNLP 2023)**
 
 Jaap Jumelet, **Michael Hanna\***, Marianne de Heer Kloots\*, Anne Langedijk\*, Charlotte Pouw\*, and Oskar van der Wal\*. 2023. *ChapGTP, ILLC’s Attempt at Raising a BabyLM: Improving Data Efficiency by Automatic Task Formation*. **(BabyLM Challenge 2023)**
 
