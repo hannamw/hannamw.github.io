@@ -1,7 +1,7 @@
 I'm Michael Hanna, a PhD student at the [ILLC](https://www.illc.uva.nl/) at the University of Amsterdam, supervised by [Sandro Pezzelle](https://sandropezzelle.github.io/) and [Yonatan Belinkov](https://www.cs.technion.ac.il/~belinkov/), through [ELLIS](https://ellis.eu/projects/interpreting-nlp-models-through-the-lens-of-cognition-and-linguistics). I'm interested in interpreting and evaluating NLP models by combining techniques from diverse fields such as cognitive science and mechanistic interpretability.
 
 ## News
-- **October 2023**: New [paper](https://hannamw.github.io/papers/EMNLP_2023_LM_Animacy.pdf) on transformer LMs' animacy processing accepted to EMNLP 2023!
+- **October 2023**: New [paper](https://arxiv.org/abs/2310.15004) on transformer LMs' animacy processing accepted to EMNLP 2023!
 - **September 2023**: New [paper](http://arxiv.org/abs/2305.00586) on GPT-2's partially generalizable circuit for greater-than has been accepted to NeurIPS 2023!
 - **July-September 2023**: I attended [Lisbon Machine Learning Summer School](http://lxmls.it.pt/2023/), and the [Analytical Connectionism Summer Course](https://www.ucl.ac.uk/gatsby/analytical-connectionism-2023)! I presented [this poster](https://hannamw.github.io/papers/ac2023_poster.pdf) at the latter school.
 - **January 2023**: New [paper](https://aclanthology.org/2023.eacl-main.58/) based on my master's thesis accepted to EACL!
@@ -14,7 +14,7 @@ I'm Michael Hanna, a PhD student at the [ILLC](https://www.illc.uva.nl/) at the 
 ## Selected Publications 
 For a full list, see [Publications](https://hannamw.github.io/publications/). 
 
-**Michael Hanna**, Yonatan Belinkov, and Sandro Pezzelle. 2023. [When Language Models Fall in Love: Animacy Processing in Transformer Language Models](https://hannamw.github.io/papers/EMNLP_2023_LM_Animacy.pdf). To appear in Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP). **(EMNLP 2023)**
+**Michael Hanna**, Yonatan Belinkov, and Sandro Pezzelle. 2023. [When Language Models Fall in Love: Animacy Processing in Transformer Language Models](https://arxiv.org/abs/2310.15004). To appear in Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP). **(EMNLP 2023)**
 
 **Michael Hanna**, Ollie Liu, and Alexandre Variengien. 2023. [How does GPT-2 compute greater-than?: Interpreting mathematical abilities in a pre-trained language model](http://arxiv.org/abs/2305.00586). To appear at the Thirty-seventh Conference on Neural Information Processing Systems. **(NeurIPS 2023)**
 
