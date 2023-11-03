@@ -1,6 +1,7 @@
 I'm Michael Hanna, a PhD student at the [ILLC](https://www.illc.uva.nl/) at the University of Amsterdam, supervised by [Sandro Pezzelle](https://sandropezzelle.github.io/) and [Yonatan Belinkov](https://www.cs.technion.ac.il/~belinkov/), through [ELLIS](https://ellis.eu/projects/interpreting-nlp-models-through-the-lens-of-cognition-and-linguistics). I'm interested in interpreting and evaluating NLP models by combining techniques from diverse fields such as cognitive science and mechanistic interpretability.
 
 ## News
+- **November 2023**: I've been awarded a prize from [CIMeC](https://www.cimec.unitn.it/en) and the [Fondazione Alvise Comel](https://agiati.org/fondazione-alvise-comel) for the top two master's theses that connect AI and cognitive neuroscience!
 - **October 2023**: New [paper](https://arxiv.org/abs/2310.15004) on transformer LMs' animacy processing accepted to EMNLP 2023!
 - **September 2023**: New [paper](http://arxiv.org/abs/2305.00586) on GPT-2's partially generalizable circuit for greater-than has been accepted to NeurIPS 2023!
 - **July-September 2023**: I attended [Lisbon Machine Learning Summer School](http://lxmls.it.pt/2023/), and the [Analytical Connectionism Summer Course](https://www.ucl.ac.uk/gatsby/analytical-connectionism-2023)! I presented [this poster](https://hannamw.github.io/papers/ac2023_poster.pdf) at the latter school.
