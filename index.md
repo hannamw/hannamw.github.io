@@ -20,8 +20,7 @@ I'm Michael Hanna, a PhD student at the [ILLC](https://www.illc.uva.nl/) at the 
 ## Selected Publications 
 For a full list, see [Publications](https://hannamw.github.io/publications/). 
 
-**Michael Hanna**, Sandro Pezzelle, and Yonatan Belinkov. 2024. [Have Faith in Faithfulness: Going Beyond Circuit Overlap When Finding Model Mechanisms
-](https://arxiv.org/abs/2403.17806). To appear at the First Conference on Language Modeling (COLM). **(COLM 2024)**
+**Michael Hanna**, Sandro Pezzelle, and Yonatan Belinkov. 2024. [Have Faith in Faithfulness: Going Beyond Circuit Overlap When Finding Model Mechanisms](https://arxiv.org/abs/2403.17806). To appear at the First Conference on Language Modeling (COLM). **(COLM 2024)**
 
 **Michael Hanna**, Yonatan Belinkov, and Sandro Pezzelle. 2023. [When Language Models Fall in Love: Animacy Processing in Transformer Language Models](https://aclanthology.org/2023.emnlp-main.744/). In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP). **(EMNLP 2023)**
 
