@@ -1,5 +1,7 @@
 # Publications
 ## Pre-prints
+Curt Tigges, **Michael Hanna**, Qinan Yu, Stella Biderman, [LLM Circuit Analyses Are Consistent Across Training and Scale](https://arxiv.org/abs/2407.10827). 2024. Available on arXiv.
+
 
 ## Conference Publications
 **Michael Hanna**, Sandro Pezzelle, and Yonatan Belinkov. 2024. [Have Faith in Faithfulness: Going Beyond Circuit Overlap When Finding Model Mechanisms](https://arxiv.org/abs/2403.17806). To appear at the First Conference on Language Modeling. **(COLM 2024)**
