@@ -1,6 +1,6 @@
 # Publications
 ## Conference Publications
-Curt Tigges, **Michael Hanna**, Qinan Yu, Stella Biderman. 2024. [LLM Circuit Analyses Are Consistent Across Training and Scale](https://arxiv.org/abs/2407.10827). To appear in the Thirty-eight Conference on Neural Information Processing Systems. **(NeurIPS 2023)**
+Curt Tigges, **Michael Hanna**, Qinan Yu, Stella Biderman. 2024. [LLM Circuit Analyses Are Consistent Across Training and Scale](https://arxiv.org/abs/2407.10827). To appear in the Thirty-eight Conference on Neural Information Processing Systems. **(NeurIPS 2024)**
 
 **Michael Hanna**, Sandro Pezzelle, and Yonatan Belinkov. 2024. [Have Faith in Faithfulness: Going Beyond Circuit Overlap When Finding Model Mechanisms](https://arxiv.org/abs/2403.17806). To appear at the First Conference on Language Modeling. **(COLM 2024)**
 
