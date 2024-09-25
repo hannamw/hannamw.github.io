@@ -1,12 +1,10 @@
 # Publications
-## Pre-prints
-Curt Tigges, **Michael Hanna**, Qinan Yu, Stella Biderman, [LLM Circuit Analyses Are Consistent Across Training and Scale](https://arxiv.org/abs/2407.10827). 2024. Available on arXiv.
-
-
 ## Conference Publications
+Curt Tigges, **Michael Hanna**, Qinan Yu, Stella Biderman. 2024. [LLM Circuit Analyses Are Consistent Across Training and Scale](https://arxiv.org/abs/2407.10827). To appear in the Thirty-eight Conference on Neural Information Processing Systems. **(NeurIPS 2023)**
+
 **Michael Hanna**, Sandro Pezzelle, and Yonatan Belinkov. 2024. [Have Faith in Faithfulness: Going Beyond Circuit Overlap When Finding Model Mechanisms](https://arxiv.org/abs/2403.17806). To appear at the First Conference on Language Modeling. **(COLM 2024)**
 
-Frank Wildenburg, **Michael Hanna**, and Sandro Pezzelle. 2024. [Do Pre-Trained Language Models Detect and Understand Semantic Underspecification? Ask the DUST!](https://arxiv.org/abs/2402.12486). To appear in Findings of the Association for Computational Linguistics **(ACL Findings 2024)**
+Frank Wildenburg, **Michael Hanna**, and Sandro Pezzelle. 2024. [Do Pre-Trained Language Models Detect and Understand Semantic Underspecification? Ask the DUST!](https://arxiv.org/abs/2402.12486). In Findings of the Association for Computational Linguistics **(ACL Findings 2024)**
 
 **Michael Hanna**, Yonatan Belinkov, and Sandro Pezzelle. 2023. [When Language Models Fall in Love: Animacy Processing in Transformer Language Models](https://aclanthology.org/2023.emnlp-main.744/). In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP). **(EMNLP 2023)**
 
