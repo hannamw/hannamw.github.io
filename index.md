@@ -1,5 +1,7 @@
 I'm Michael Hanna, a PhD student at the [ILLC](https://www.illc.uva.nl/) at the University of Amsterdam, supervised by [Sandro Pezzelle](https://sandropezzelle.github.io/) and [Yonatan Belinkov](https://www.cs.technion.ac.il/~belinkov/), through [ELLIS](https://ellis.eu/projects/interpreting-nlp-models-through-the-lens-of-cognition-and-linguistics). I'm interested in interpreting and evaluating NLP models by combining techniques from diverse fields such as cognitive science and mechanistic interpretability.
 
+**I'm looking for internships during Summer 2025—send me a message if you have any opportunities to share!**
+
 ## News
 - **September 2024**: New [paper](https://arxiv.org/abs/2407.10827), led by [Curt Tigges](https://curttigges.com/), accepted to NeurIPS 2024, and appeared as an oral at [RepL4NLP2024](https://sites.google.com/view/repl4nlp2024/) at ACL!
 - **July 2024**: New [paper](https://arxiv.org/abs/2403.17806) on faithfulness in circuit-finding will appear at [COLM](https://colmweb.org/) and as a spotlight at the [ICML 2024 Mech. Interp. Workshop](https://icml2024mi.pages.dev/) ([poster](https://hannamw.github.io/preprints-posters/mech_interp_workshop_poster.pdf))!
