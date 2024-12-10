@@ -3,7 +3,7 @@ I'm Michael Hanna, a PhD student at the [ILLC](https://www.illc.uva.nl/) at the 
 **I'm looking for internships during Summer 2025—send me a message if you have any opportunities to share!**
 
 ## News
-- **October 2024**: New [preprint](https://hannamw.github.io/preprints-posters/garden_path_preprint.pdf) out, using sparse autoencoders to understand how language models incrementally process sentences.
+- **October 2024**: New [preprint](https://arxiv.org/abs/2412.05353) with [Aaron Mueller](https://aaronmueller.github.io/) out, in which we use sparse autoencoders to understand how language models incrementally process sentences.
 - **September 2024**: New [paper](https://arxiv.org/abs/2407.10827), led by [Curt Tigges](https://curttigges.com/), accepted to NeurIPS 2024, and appeared as an oral at [RepL4NLP2024](https://sites.google.com/view/repl4nlp2024/) at ACL!
 - **July 2024**: New [paper](https://arxiv.org/abs/2403.17806) on faithfulness in circuit-finding will appear at [COLM](https://colmweb.org/) and as a spotlight at the [ICML 2024 Mech. Interp. Workshop](https://icml2024mi.pages.dev/) ([poster](https://hannamw.github.io/preprints-posters/mech_interp_workshop_poster.pdf))!
 - **May 2024**: New [paper](https://arxiv.org/abs/2402.12486) on underspecification + LMs accepted to the Findings of ACL 2024; congrats to Frank Wildenburg, the master's student who led this project!
