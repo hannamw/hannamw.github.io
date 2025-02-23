@@ -2,7 +2,7 @@ I'm Michael Hanna, a PhD student at the [ILLC](https://www.illc.uva.nl/) at the 
 
 ## News
 - **January 2025**:
-  - I'll be spending March-September 2025 in Berkeley as an [Anthropic AI Safety Fellow](https://alignment.anthropic.com/2024/anthropic-fellows-program/)!
+  - I'll be spending March-September 2025 in Berkeley as an [Research Fellow at Anthropic](https://alignment.anthropic.com/2024/anthropic-fellows-program/)!
   - My [paper](https://arxiv.org/abs/2412.05353) with [Aaron Mueller](https://aaronmueller.github.io/) on using sparse autoencoders to understand how language models incrementally process sentences, has been accepted to NAACL 2025!
 - **December 2024**: My colleagues and I have released short videos explaining basic concepts in interpretability! My advisor, Sandro Pezzelle, and I talk about circuits; check out the video [here](https://projects.illc.uva.nl/indeep/indeep-video-series/)!
 - **September 2024**: New [paper](https://arxiv.org/abs/2407.10827), led by [Curt Tigges](https://curttigges.com/), accepted to NeurIPS 2024, and appeared as an oral at [RepL4NLP2024](https://sites.google.com/view/repl4nlp2024/) at ACL!
