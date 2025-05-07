@@ -1,9 +1,9 @@
 I'm Michael Hanna, a PhD student at the [ILLC](https://www.illc.uva.nl/) at the University of Amsterdam, supervised by [Sandro Pezzelle](https://sandropezzelle.github.io/) and [Yonatan Belinkov](https://www.cs.technion.ac.il/~belinkov/), through [ELLIS](https://ellis.eu/projects/interpreting-nlp-models-through-the-lens-of-cognition-and-linguistics). I'm interested in interpreting and evaluating NLP models by combining techniques from diverse fields such as cognitive science and mechanistic interpretability.
 
 ## News
-- **January 2025**:
-  - I'll be spending March-September 2025 in Berkeley as an [Research Fellow at Anthropic](https://alignment.anthropic.com/2024/anthropic-fellows-program/)!
-  - My [paper](https://arxiv.org/abs/2412.05353) with [Aaron Mueller](https://aaronmueller.github.io/) on using sparse autoencoders to understand how language models incrementally process sentences, has been accepted to NAACL 2025!
+- **May 2025**: Many colleagues and I have a [paper](https://arxiv.org/abs/2504.13151) accepted to ICML 2025 on a new Mechanistic Interpretability Benchmark, for both causal graph and circuit identification!
+- **March 2025**: I'm in Berkeley until September as an [Anthropic Research Fellow](https://alignment.anthropic.com/2024/anthropic-fellows-program/)!
+- **January 2025**: New [paper](https://aclanthology.org/2025.naacl-long.164/) accepted to NAACL 2025, coauthored with [Aaron Mueller](https://aaronmueller.github.io/) on using sparse autoencoders to understand how language models incrementally process sentences!
 - **December 2024**: My colleagues and I have released short videos explaining basic concepts in interpretability! My advisor, Sandro Pezzelle, and I talk about circuits; check out the video [here](https://projects.illc.uva.nl/indeep/indeep-video-series/)!
 - **September 2024**: New [paper](https://arxiv.org/abs/2407.10827), led by [Curt Tigges](https://curttigges.com/), accepted to NeurIPS 2024, and appeared as an oral at [RepL4NLP2024](https://sites.google.com/view/repl4nlp2024/) at ACL!
 - **July 2024**: New [paper](https://arxiv.org/abs/2403.17806) on faithfulness in circuit-finding will appear at [COLM](https://colmweb.org/) and as a spotlight at the [ICML 2024 Mech. Interp. Workshop](https://icml2024mi.pages.dev/) ([poster](https://hannamw.github.io/preprints-posters/mech_interp_workshop_poster.pdf))!
@@ -22,9 +22,9 @@ I'm Michael Hanna, a PhD student at the [ILLC](https://www.illc.uva.nl/) at the 
 - **June 2020**: I graduated from the University of Chicago (CS and Linguistics)! I wrote an honors thesis on interpreting variational autoencoders for sentences, advised by [Allyson Ettinger](https://aetting.github.io/).
 
 ## Selected Publications 
-For a full list, see [Publications](https://hannamw.github.io/publications/). 
+For a full list, see [Publications](https://hannamw.github.io/publications/) or my [Google Scholar](https://scholar.google.com/citations?user=0wOdTeYAAAAJ&hl=en).
 
-**Michael Hanna*** and Aaron Mueller*. 2025. [Incremental Sentence Processing Mechanisms in Autoregressive Transformer Language Models](https://arxiv.org/abs/2412.05353). To appear at the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics. **(NAACL 2025)** 
+**Michael Hanna*** and Aaron Mueller*. 2025. [Incremental Sentence Processing Mechanisms in Autoregressive Transformer Language Models](https://aclanthology.org/2025.naacl-long.164/). In the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics. **(NAACL 2025)** 
 
 Curt Tigges, **Michael Hanna**, Qinan Yu, Stella Biderman. 2024. [LLM Circuit Analyses Are Consistent Across Training and Scale](https://arxiv.org/abs/2407.10827). In the Thirty-eight Conference on Neural Information Processing Systems. **(NeurIPS 2024)**
 
