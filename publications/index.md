@@ -1,6 +1,8 @@
 # Publications
 ## Conference Publications
-Aaron Mueller, Atticus Geiger, Sarah Wiegreffe, Dana Arad, Iván Arcuschin, Adam Belfki, Yik Siu Chan, Jaden Fiotto-Kaufman, Tal Haklay, **Michael Hanna**, Jing Huang, Rohan Gupta, Yaniv Nikankin, Hadas Orgad, Nikhil Prakash, Anja Reusch, Aruna Sankaranarayanan, Shun Shao, Alessandro Stolfo, Martin Tutek, Amir Zur, David Bau, Yonatan Belinkov.  2025. [MIB: A Mechanistic Interpretability Benchmark](https://arxiv.org/abs/2504.13151). To appear in the 42nd International Conference on Machine Learning. **(ICML 2025)**
+Aaron Mueller, Atticus Geiger, Sarah Wiegreffe, Dana Arad, Iván Arcuschin, Adam Belfki, Yik Siu Chan, Jaden Fiotto-Kaufman, Tal Haklay, **Michael Hanna**, Jing Huang, Rohan Gupta, Yaniv Nikankin, Hadas Orgad, Nikhil Prakash, Anja Reusch, Aruna Sankaranarayanan, Shun Shao, Alessandro Stolfo, Martin Tutek, Amir Zur, David Bau, Yonatan Belinkov. 2025. [MIB: A Mechanistic Interpretability Benchmark](https://arxiv.org/abs/2504.13151). To appear in the 42nd International Conference on Machine Learning. **(ICML 2025)**
+
+Anna Bavaresco, Raffaella Bernardi, Leonardo Bertolazzi, Desmond Elliott, Raquel Fernández, Albert Gatt, Esam Ghaleb, Mario Giulianelli, **Michael Hanna**, Alexander Koller, André F. T. Martins, Philipp Mondorf, Vera Neplenbroek, Sandro Pezzelle, Barbara Plank, David Schlangen, Alessandro Suglia, Aditya K Surikuchi, Ece Takmaz, Alberto Testoni. 2025. [LLMs instead of Human Judges? A Large Scale Empirical Study across 20 NLP Evaluation Tasks](https://arxiv.org/abs/2406.18403). To appear in Association for Computational Linguistics: 2025. **(ACL 2025)**
 
 **Michael Hanna*** and Aaron Mueller*. 2025. [Incremental Sentence Processing Mechanisms in Autoregressive Transformer Language Models](https://aclanthology.org/2025.naacl-long.164/). In the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics. **(NAACL 2025)** 
 
@@ -8,7 +10,7 @@ Curt Tigges, **Michael Hanna**, Qinan Yu, Stella Biderman. 2024. [LLM Circuit An
 
 **Michael Hanna**, Sandro Pezzelle, and Yonatan Belinkov. 2024. [Have Faith in Faithfulness: Going Beyond Circuit Overlap When Finding Model Mechanisms](https://openreview.net/forum?id=TZ0CCGDcuT). In the First Conference on Language Modeling. **(COLM 2024)**
 
-Frank Wildenburg, **Michael Hanna**, and Sandro Pezzelle. 2024. [Do Pre-Trained Language Models Detect and Understand Semantic Underspecification? Ask the DUST!](https://aclanthology.org/2024.findings-acl.572/). In Findings of the Association for Computational Linguistics **(ACL Findings 2024)**
+Frank Wildenburg, **Michael Hanna**, and Sandro Pezzelle. 2024. [Do Pre-Trained Language Models Detect and Understand Semantic Underspecification? Ask the DUST!](https://aclanthology.org/2024.findings-acl.572/). In Findings of the Association for Computational Linguistics: ACL 2024 **(ACL Findings 2024)**
 
 **Michael Hanna**, Yonatan Belinkov, and Sandro Pezzelle. 2023. [When Language Models Fall in Love: Animacy Processing in Transformer Language Models](https://aclanthology.org/2023.emnlp-main.744/). In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP). **(EMNLP 2023)**
 
