@@ -1,7 +1,9 @@
 I'm Michael Hanna, a PhD student at the [ILLC](https://www.illc.uva.nl/) at the University of Amsterdam, supervised by [Sandro Pezzelle](https://sandropezzelle.github.io/) and [Yonatan Belinkov](https://www.cs.technion.ac.il/~belinkov/), through [ELLIS](https://ellis.eu/projects/interpreting-nlp-models-through-the-lens-of-cognition-and-linguistics). I'm interested in interpreting and evaluating NLP models by combining techniques from diverse fields such as cognitive science and mechanistic interpretability.
 
 ## News
-- **May 2025**: Many colleagues and I have a [paper](https://arxiv.org/abs/2504.13151) accepted to ICML 2025 on a new Mechanistic Interpretability Benchmark, for both causal graph and circuit identification!
+- **May 2025**:
+  - Many colleagues and I have a [paper](https://arxiv.org/abs/2504.13151) accepted to ICML 2025 on a new Mechanistic Interpretability Benchmark, for both causal graph and circuit identification!
+  - Another big group [paper](https://arxiv.org/abs/2406.18403) on LLM judges has been accepted to ACL 2025!
 - **March 2025**: I'm in Berkeley until September as an [Anthropic Research Fellow](https://alignment.anthropic.com/2024/anthropic-fellows-program/)!
 - **January 2025**: New [paper](https://aclanthology.org/2025.naacl-long.164/) accepted to NAACL 2025, coauthored with [Aaron Mueller](https://aaronmueller.github.io/) on using sparse autoencoders to understand how language models incrementally process sentences!
 - **December 2024**: My colleagues and I have released short videos explaining basic concepts in interpretability! My advisor, Sandro Pezzelle, and I talk about circuits; check out the video [here](https://projects.illc.uva.nl/indeep/indeep-video-series/)!
