@@ -31,6 +31,8 @@ I'm Michael Hanna, a PhD student at the [ILLC](https://www.illc.uva.nl/) at the 
 ## Selected Publications 
 For a full list, see [Publications](https://hannamw.github.io/publications/) or my [Google Scholar](https://scholar.google.com/citations?user=0wOdTeYAAAAJ&hl=en).
 
+**Michael Hanna**, Yonatan Belinkov, and Sandro Pezzelle. 2025. [Are Formal and Functional Linguistic Mechanisms Dissociated in Language Models?](https://arxiv.org/abs/2503.11302). To appear in Computational Linguistics. **(Computational Linguistics)**
+
 **Michael Hanna*** and Aaron Mueller*. 2025. [Incremental Sentence Processing Mechanisms in Autoregressive Transformer Language Models](https://aclanthology.org/2025.naacl-long.164/). In the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics. **(NAACL 2025)** 
 
 Curt Tigges, **Michael Hanna**, Qinan Yu, Stella Biderman. 2024. [LLM Circuit Analyses Are Consistent Across Training and Scale](https://openreview.net/forum?id=3Ds5vNudIE). In the Thirty-eight Conference on Neural Information Processing Systems. **(NeurIPS 2024)**
