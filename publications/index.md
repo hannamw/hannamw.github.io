@@ -1,6 +1,6 @@
 # Publications
 ## Journal Publications
-**Michael Hanna**, Yonatan Belinkov, and Sandro Pezzelle. 2025. [Are Formal and Functional Linguistic Mechanisms Dissociated in Language Models?](https://arxiv.org/abs/2503.11302). To appear in Computational Linguistics. **(Computational Linguistics)**
+**Michael Hanna**, Yonatan Belinkov, and Sandro Pezzelle. 2025. [Are Formal and Functional Linguistic Mechanisms Dissociated in Language Models?](https://direct.mit.edu/coli/article/doi/10.1162/coli.a.24/133145). In Computational Linguistics. **(Computational Linguistics)**
 
 ## Conference Publications
 Aaron Mueller, Atticus Geiger, Sarah Wiegreffe, Dana Arad, Iván Arcuschin, Adam Belfki, Yik Siu Chan, Jaden Fiotto-Kaufman, Tal Haklay, **Michael Hanna**, Jing Huang, Rohan Gupta, Yaniv Nikankin, Hadas Orgad, Nikhil Prakash, Anja Reusch, Aruna Sankaranarayanan, Shun Shao, Alessandro Stolfo, Martin Tutek, Amir Zur, David Bau, Yonatan Belinkov. 2025. [MIB: A Mechanistic Interpretability Benchmark](https://openreview.net/forum?id=sSrOwve6vb). In the 42nd International Conference on Machine Learning. **(ICML 2025)**
