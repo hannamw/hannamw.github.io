@@ -1,7 +1,5 @@
 I'm Michael Hanna, a PhD student at the [ILLC](https://www.illc.uva.nl/) at the University of Amsterdam, supervised by [Sandro Pezzelle](https://sandropezzelle.github.io/) and [Yonatan Belinkov](https://www.cs.technion.ac.il/~belinkov/), through [ELLIS](https://ellis.eu/projects/interpreting-nlp-models-through-the-lens-of-cognition-and-linguistics). I'm interested in interpreting and evaluating NLP models by combining techniques from diverse fields such as cognitive science and mechanistic interpretability.
 
-**Are you an AI master's student at the UvA looking to write a thesis on mechanistic interpretability?**  I plan to supervise one student this year. I'm currently interested in [(transcoder) feature circuits](https://transformer-circuits.pub/2025/attribution-graphs/methods.html), but am open to other project ideas as well! Send me an email with your CV and interpretability experience, including any relevant projects you've done. Feel free to send over some thesis project ideas as well, if there's anything in particular you'd like to work on!
-
 ## News
 - **October 2025**: I am excited to have received a [Google PhD Fellowship](https://blog.google/outreach-initiatives/google-org/phd-fellowship-program-2025/) in NLP!
 - **August 2025**: New [paper](https://arxiv.org/abs/2503.11302) on understanding the formal-functional divide using component circuits will appear in [Computational Linguistics](https://submissions.cljournal.org/index.php/cljournal/index)!
