@@ -1,6 +1,8 @@
 I'm Michael Hanna, a PhD student at the [ILLC](https://www.illc.uva.nl/) at the University of Amsterdam, supervised by [Sandro Pezzelle](https://sandropezzelle.github.io/) and [Yonatan Belinkov](https://www.cs.technion.ac.il/~belinkov/), through [ELLIS](https://ellis.eu/projects/interpreting-nlp-models-through-the-lens-of-cognition-and-linguistics). I'm interested in interpreting and evaluating NLP models by combining techniques from diverse fields such as cognitive science and mechanistic interpretability.
 
 ## News
+- **June 2026**: A new [paper](https://openreview.net/forum?id=C3qDf4nbSp) led by fellow ILLC PhD student Luan Fletcher, has been accepted to the 2026 Mech Interp Workshop!
+- **May 2026**: I'm at [Goodfire](https://www.goodfire.ai/) as a research fellow for the summer! Feel free to reach out if you're in San Francisco.
 - **January 2026**: A new [paper](https://openreview.net/forum?id=H0B7pDTT0M) with Emmanuel Ameisen, studying the latent planning abilities of LLMs using transcoder circuits, has been accepted to ICLR 2026!
 - **October 2025**: I am excited to have received a [Google PhD Fellowship](https://blog.google/outreach-initiatives/google-org/phd-fellowship-program-2025/) in NLP! Interested in applying? Feel free to peek at my application materials [here](https://hannamw.github.io/resume/Google_PhD_Fellowship_Michael_Hanna.pdf).
 - **August 2025**: New [paper](https://arxiv.org/abs/2503.11302) on understanding the formal-functional divide using component circuits will appear in [Computational Linguistics](https://submissions.cljournal.org/index.php/cljournal/index)!
